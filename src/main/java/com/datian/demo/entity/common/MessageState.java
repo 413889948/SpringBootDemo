@@ -1,8 +1,9 @@
-package cn.hyx.bg.entity.common;
+package com.datian.demo.common;
 
 import java.util.Map;
 
 import lombok.Data;
+import lombok.experimental.Accessors;
 
 /**
  * @Author: huangyx

@@ -1,8 +1,8 @@
-package cn.hyx.bg.service;
+package com.datian.demo.service;
+
 
 import com.baomidou.mybatisplus.extension.service.IService;
-
-import cn.hyx.bg.entity.db.EightSymbol;
+import com.datian.demo.entity.db.EightSymbol;
 
 /**
  * (EightSymbol)表服务接口

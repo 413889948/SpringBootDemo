@@ -1,4 +1,4 @@
-package cn.hyx.bg.controller;
+package com.datian.demo.controller;
 
 import com.alibaba.fastjson.JSON;
 import com.baomidou.mybatisplus.core.toolkit.StringUtils;

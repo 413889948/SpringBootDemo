@@ -1,10 +1,10 @@
-package cn.hyx.bg.dao;
+package com.datian.demo.dao;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import com.datian.demo.entity.db.EightSymbol;
 
 import org.apache.ibatis.annotations.Mapper;
 
-import cn.hyx.bg.entity.db.EightSymbol;
 
 /**
  * (EightSymbol)表数据库访问层

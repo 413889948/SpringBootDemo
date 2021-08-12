@@ -1,10 +1,10 @@
-package cn.hyx.bg.dao;
+package com.datian.demo.dao;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import com.datian.demo.entity.db.SixtyFourSymbols;
 
 import org.apache.ibatis.annotations.Mapper;
 
-import cn.hyx.bg.entity.db.SixtyFourSymbols;
 
 /**
  * (SixtyFourSymbols)表数据库访问层
