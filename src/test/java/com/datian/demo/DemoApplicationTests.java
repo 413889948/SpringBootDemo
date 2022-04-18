@@ -14,9 +14,9 @@ class DemoApplicationTests {
     @Test
     void contextLoads() {
 
-        jedisPool.getResource().set("11","22");
-        String s = jedisPool.getResource().get("11");
-        System.out.println(s);
+//        jedisPool.getResource().set("11","22");
+//        String s = jedisPool.getResource().get("11");
+//        System.out.println(s);
     }
 
 }
