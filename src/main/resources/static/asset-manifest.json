@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/resource/css/main.0478b0d8.css",
+    "main.js": "/resource/js/main.fc118410.js",
+    "index.html": "/index.html",
+    "main.0478b0d8.css.map": "/resource/css/main.0478b0d8.css.map",
+    "main.fc118410.js.map": "/resource/js/main.fc118410.js.map"
+  },
+  "entrypoints": [
+    "resource/css/main.0478b0d8.css",
+    "resource/js/main.fc118410.js"
+  ]
+}
