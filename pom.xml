@@ -63,6 +63,18 @@
             <artifactId>commons-lang3</artifactId>
             <version>3.7</version>
         </dependency>
+// 未验证用于扫描注解https://blog.csdn.net/GDKbb/article/details/120225535
+<dependency>	
+    <groupId>org.reflections</groupId>
+    <artifactId>reflections</artifactId>
+    <version>0.9.11</version>
+</dependency>
+<dependency>
+    <groupId>com.google.guava</groupId>
+    <artifactId>guava</artifactId>
+    <version>21.0</version>
+</dependency>
+
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
